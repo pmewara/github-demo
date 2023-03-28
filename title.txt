@@ -1,2 +1,2 @@
-This is feature branch.
-This is title text file for feature.
+This is main branch.
+This is title text file for main.
